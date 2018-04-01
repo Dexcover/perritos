@@ -1,0 +1,36 @@
+
+.body-top {
+  padding-top: 240px;
+  
+}
+.body-bottom {
+  padding-top: 50px;
+  
+}
+
+.header {
+  background-image: url('https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiAjr-sufLTAhWnAcAKHUqHD8QQjRwIBw&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2D8XRCF8uNw&psig=AFQjCNHZm3jowmL2hT0y_cFsiR0sTcPi-A&ust=1494956568627117'); 
+  background-size: cover; 
+  padding-top: 100px;
+
+}
+.header-top {
+  background-image: url(&#039;http://www.up-downbikes.it/images/Cool-Designs-HD-Wallpaper.jpg&#039;); 
+  background-size: cover; 
+  padding-top: 100px;
+
+}
+
+.header-bottom{
+  background-image: url(&#039;http://www.up-downbikes.it/images/Cool-Designs-HD-Wallpaper.jpg&#039;); 
+  background-size: cover; 
+  padding-top: 100px;
+  margin-bottom: 30px;
+
+}
+
+.header-text {
+  margin-bottom: 0px;
+  color: white;
+}
+
